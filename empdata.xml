@@ -3,17 +3,17 @@
     <data>
       <name>James Bond</name>
       <email>jbond@gmail.com</email>
-      <salary>$170,750</salary>
+      <horoscope>aries</horoscope>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
-      <phone>(206)123-5678</phone>
+      <phone>206-123-5678</phone>
     </data>
     <data>
       <name>Brielle Williamson</name>
       <email>briellew@gmail.com</email>
-      <salary>$372,000</salary>
+      <horoscope>aquarius</horoscope>
       <joining_date>2012/12/02</joining_date>
       <office>New York</office>
-      <phone>(213)123-4567</phone>   
+      <phone>213-123-4567</phone>   
     </data>
   </employees>
